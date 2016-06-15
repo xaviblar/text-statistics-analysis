@@ -1,0 +1,11 @@
+c:\users\xavier\documents\visual studio 2012\Projects\IIPrograArqui\IIPrograArqui\bin\Debug\IIPrograArqui.exe.config
+c:\users\xavier\documents\visual studio 2012\Projects\IIPrograArqui\IIPrograArqui\bin\Debug\IIPrograArqui.exe
+c:\users\xavier\documents\visual studio 2012\Projects\IIPrograArqui\IIPrograArqui\bin\Debug\IIPrograArqui.pdb
+c:\users\xavier\documents\visual studio 2012\Projects\IIPrograArqui\IIPrograArqui\obj\Debug\IIPrograArqui.exe
+c:\users\xavier\documents\visual studio 2012\Projects\IIPrograArqui\IIPrograArqui\obj\Debug\IIPrograArqui.pdb
+E:\Xavier\TEC\2013 I Semestre\Arqui\II_proyecto_programado\II proyecto programado\II Parte\IIPrograArqui\IIPrograArqui\bin\Debug\IIPrograArqui.exe.config
+E:\Xavier\TEC\2013 I Semestre\Arqui\II_proyecto_programado\II proyecto programado\II Parte\IIPrograArqui\IIPrograArqui\obj\Debug\IIPrograArqui.exe
+E:\Xavier\TEC\2013 I Semestre\Arqui\II_proyecto_programado\II proyecto programado\II Parte\IIPrograArqui\IIPrograArqui\obj\Debug\IIPrograArqui.pdb
+E:\Xavier\TEC\2013 I Semestre\Arqui\II_proyecto_programado\II proyecto programado\II Parte\IIPrograArqui\IIPrograArqui\bin\Debug\IIPrograArqui.exe
+E:\Xavier\TEC\2013 I Semestre\Arqui\II_proyecto_programado\II proyecto programado\II Parte\IIPrograArqui\IIPrograArqui\bin\Debug\IIPrograArqui.pdb
+E:\Xavier\TEC\2013 I Semestre\Arqui\II_proyecto_programado\II proyecto programado\II Parte\IIPrograArqui\IIPrograArqui\obj\Debug\IIPrograArqui.csprojResolveAssemblyReference.cache
